@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "472976370622",
+    "firebase_url": "https://logintipflix.firebaseio.com",
+    "project_id": "logintipflix",
+    "storage_bucket": "logintipflix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472976370622:android:509fcce8d225e228",
+        "android_client_info": {
+          "package_name": "marcosjr.com.logintipflix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472976370622-i2l3btofadcivcafdjima8vdp9dahggf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "marcosjr.com.logintipflix",
+            "certificate_hash": "cf53a3c0c1f6f5ea6a6b4658057c8d00daf0f8cf"
+          }
+        },
+        {
+          "client_id": "472976370622-0vmgco6dmfg2lehgrl0rt54sabn9kpb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-viTKUvnIaKtwiBOqtcsfVuu-Xd__vrI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472976370622-0vmgco6dmfg2lehgrl0rt54sabn9kpb9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
